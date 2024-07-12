@@ -1,0 +1,13 @@
+Projet Machine Learning
+Utiliser pandas, numpy, matplotlib, Seaborn
+Tâches à faire :
+-Traitement et Exploration de Données (Nettoyage, Données manquante, Doublon)
+-Apprentissage (Choisir l'algorithme d'apprentissage adapté)
+-Validation
+-Optimisation du modèle
+
+Sujet 4 : Job  Survey India
+Un sondage a été réalisé auprès des étudiants des collèges indiens, qui ont répondu à des questions concernant leurs attentes en matière d'emploi après l'obtention de leur diplôme. Les données ont été collectées via Google Forms en ligne.
+Analysez les données et trouvez des insights intéressants.
+Les données sont principalement basées sur les choix des étudiants de Delhi.
+Prédir la colonne IdealYearlyIncome
