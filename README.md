@@ -1,4 +1,4 @@
-# Prédiction des Revenus Annuels Idéaux des Étudiants Indiens après leur Diplôme
+# Prédiction des Revenus Annuels Idéaux des Étudiants après leur Diplôme
 
 ## Description du Projet
 
